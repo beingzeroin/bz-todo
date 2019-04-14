@@ -1,0 +1,16 @@
+{
+    "name": "beingzero-todo",
+    "version": "1.0.0",
+    "description": "Being Zero ToDO Application - VUEJS",
+    "main": "server.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Being Zero Pvt Ltd",
+    "license": "ISC",
+    "dependencies": {
+        "director": "^1.2.8",
+        "express": "^4.16.4",
+        "vue": "^2.6.10"
+    }
+}
