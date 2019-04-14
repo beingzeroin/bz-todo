@@ -4,6 +4,6 @@ const port = 3000
 
 app.use(express.static(__dirname))
 
-app.get('/', (req, res) => res.sendFile(__dirname + '/public/index.html'))
+app.get('/', (req, res) => res.sendFile(__dirname + '/public/test.html'))
 
 app.listen(port, () => console.log(`Example app listening on port ${port}!`))
