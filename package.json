@@ -9,8 +9,6 @@
     "author": "Being Zero Pvt Ltd",
     "license": "ISC",
     "dependencies": {
-        "director": "^1.2.8",
-        "express": "^4.16.4",
-        "vue": "^2.6.10"
+        "express": "^4.16.4"
     }
 }
